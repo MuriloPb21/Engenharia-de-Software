@@ -1,12 +1,13 @@
 # Engenharia-de-Software
-# TechFix — Sistema de Assistência Técnica
+
+# Biblioteca Digital
 
 Projeto acadêmico desenvolvido para a disciplina de Engenharia de Software.
 
-O **TechFix** é um sistema de assistência técnica que permite o gerenciamento de chamados, diagnósticos, orçamentos e serviços realizados.
+A **Biblioteca Digital** é um sistema para gerenciamento e acesso a obras digitalizadas.
 
 ## Documentação
 
-A documentação do modelo de caso de uso está disponível na **Wiki do repositório**.
+A documentação do projeto está disponível na **Wiki do repositório**.
 
 * [Acessar a Wiki](../../wiki)
