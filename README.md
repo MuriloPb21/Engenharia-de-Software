@@ -10,4 +10,4 @@ A **Biblioteca Digital** é um sistema para gerenciamento e acesso a obras digit
 
 A documentação do projeto está disponível na **Wiki do repositório**.
 
-* [Acessar a Wiki](../../wiki)
+* [Acessar o Modelo de Caso de Uso](../../wiki/Modelo-de-Caso-de-Uso)
