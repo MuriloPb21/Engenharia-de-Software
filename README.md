@@ -13,3 +13,4 @@ A documentação do projeto está disponível na **Wiki do repositório**.
 - [TG1 — Modelo de Caso de Uso](../../wiki/TG1-‐-Modelo-de-Caso-de-Uso)
 - [TG2 — Modelo de Domínio](../../wiki/TG2)
 - [TG3 — Diagramas de Sequência do Sistema](../../wiki/TG3)
+- [TG4 - Especificação de Requisitos](../../wiki/TG4)
